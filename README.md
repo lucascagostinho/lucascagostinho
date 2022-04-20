@@ -4,5 +4,5 @@
 
 ##### NOW
 
-- ✨I'm learning how to code.
+- :man_student:I'm learning how to code.
 - 💻I'm currently learning `.html`, `.css`, `.js`, `ReactNative`, `.jar` and more.
